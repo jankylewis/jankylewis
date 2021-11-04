@@ -44,3 +44,26 @@ Here are some ideas to get you started:
   <br/>
   </p>
 </details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Contribution</b></summary>
+  <br/>
+   <a href="https://github.com/vinhtranak02092k"><img alt="Vinh Tran's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vinhtranak02092k&custom_title=Vinh%20Tran's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
