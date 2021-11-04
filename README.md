@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinhtranak02092k&label=Profile%20views&color=0e75b6&style=plastic" alt="vinhtranak02092k" /> </p> 
 
-<p align= "center"><img src= "https://media0.giphy.com/media/FJxz3zSthG5vQxG1ZY/giphy.gif?cid=ecf05e47kr6qym3b9owzxfxo0gg9piogs7hs6fbezy834ozr&rid=giphy.gif&ct=s" /></p>
+<p align= "center"><img width= "200" src= "https://media0.giphy.com/media/FJxz3zSthG5vQxG1ZY/giphy.gif?cid=ecf05e47kr6qym3b9owzxfxo0gg9piogs7hs6fbezy834ozr&rid=giphy.gif&ct=s" /></p>
 
 
 
