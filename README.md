@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tester></a>
 </p> 
-	  <br>
-
-<p> ### 🛠️ My Competence 
+	  
+	  ## 🛠️ My Skills 
 <ul>
-	<li>Robot Framework | Selenium</li>
-	<li>Java | Selenium</li>
-	<li>Adobe Photoshop | Basic Photo Editing</li>
-  <li>Adobe Premiere | Basic Track Editing</li>
+	<li>ASP.NET (Core) | ReactJS </li>
+	<li>Tailwind | SCSS</li>
+	<li>UI Design | Azure</li>
 </ul>
-	  </p>
-<br>
+ 
+<br/>
