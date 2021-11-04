@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tester></a>
 </p> 
+	  <br>
 
 ### 🛠️ My Competence 
 <ul>
@@ -28,3 +29,4 @@ Here are some ideas to get you started:
   <li>Adobe Premiere | Basic Track Editing</li>
 </ul>
 
+<br>
