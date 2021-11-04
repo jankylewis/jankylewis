@@ -55,13 +55,14 @@ Here are some ideas to get you started:
 
 <br/>
 
-## Let's Connect 💥
+## 💥 Let's Connect
 <p align="center">
-	<a href="mailtotranvinhit02092k@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
+	<a href="mailto:tranvinhit02092k@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
 	<a href="https://github.com/vinhtranak02092k" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/vinhtranBbx" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin-circled.png"/></a>
 	<a href="https://www.facebook.com/vinhtranBbx" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/facebook-circled.png"/></a>
 	<a href="https://www.instagram.com/vinhtraafn_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+	<a href="https://www.instagram.com/vinhtraafn_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/skype-new.png"/></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinhtranak02092k&label=Profile%20views&color=0e75b6&style=plastic" alt="vinhtranak02092k" /> </p> 
