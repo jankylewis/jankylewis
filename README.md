@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 </p>--> 
 	  
 ### ⚡ My Competence
+<ul>
+	<li>ASP.NET (Core) | ReactJS </li>
+	<li>Tailwind | SCSS</li>
+	<li>UI Design | Azure</li>
+</ul>
