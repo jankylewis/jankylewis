@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## 💥 Feel free to reach me at
+## 💥 Feel Free To Reach Me At
 <p align="center">
 	<a href="mailto:tranvinhit02092k@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
 	<a href="https://github.com/vinhtranak02092k" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
