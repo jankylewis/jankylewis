@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## 📊 GitHub Statistics (Expand to Observe)
+## 📊 GitHub Statistics (Expand To Observe More Meticulously)
 
 <details> 
   <summary><b>GitHub Activity Statistics 💻</b></summary>
