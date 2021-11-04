@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## 💥 Let's Connect
+## 💥 Feel free to reach me at
 <p align="center">
 	<a href="mailto:tranvinhit02092k@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
 	<a href="https://github.com/vinhtranak02092k" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinhtranak02092k&label=Profile%20views&color=0e75b6&style=plastic" alt="vinhtranak02092k" /> </p> 
-
+<br/>
 <p align= "center"><img width= "200" src= "https://media2.giphy.com/media/vwtg8NZpMpXFG9AO1M/giphy.gif?cid=ecf05e47kr6qym3b9owzxfxo0gg9piogs7hs6fbezy834ozr&rid=giphy.gif&ct=s" /></p>
 
 
