@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello! I am Tran Quang Vinh          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<h1 align="center"><img src= "https://media0.giphy.com/media/26hiu39XQHEjPKofu/giphy.gif?cid=ecf05e47yk9q9zhvh1b0wak56am5391ayoyrb39mpdrrw3ns&rid=giphy.gif&ct=s">Hello galaxy! I am Tran Quang Vinh<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Tester&center;Always%20be%20diligent&center=true&width=500&height=50"></a></p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Tester;Always%20be%20diligent&center=true&width=500&height=50"></a></p>
 	  
 ## ⚡ My Competence
 <ul>
