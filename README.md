@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 </p> 
 	  <br>
 
-### 🛠️ My Competence 
+<p> ### 🛠️ My Competence 
 <ul>
 	<li>Robot Framework | Selenium</li>
 	<li>Java | Selenium</li>
 	<li>Adobe Photoshop | Basic Photo Editing</li>
   <li>Adobe Premiere | Basic Track Editing</li>
 </ul>
-
+	  </p>
 <br>
