@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tester></a>
 </p> 
 
-## 🛠️ My Competence 
+### 🛠️ My Competence 
 <ul>
 	<li>Robot Framework | Selenium</li>
 	<li>Java | Selenium</li>
