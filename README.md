@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello world, I am Tran Quang Vinh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tester></a>
-</p><br>
+</p><br>-->
 	  
 ## ⚡ My Competence
 <ul>
