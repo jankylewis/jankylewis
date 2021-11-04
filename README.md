@@ -16,13 +16,30 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello world, I am Tran Quang Vinh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
-<!--<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tester></a>
-</p><br>-->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tester"></a></p>
 	  
-## ⚡ My Competence
+##### ⚡ My Competence
 <ul>
-	<li>ASP.NET (Core) | ReactJS </li>
-	<li>Tailwind | SCSS</li>
-	<li>UI Design | Azure</li>
+	<li>Robot Framework | Selenium</li>
+	<li>Java | Selenium</li>
+	<li>UI Design - Adobe Photoshop | Photo Editing</li>
+	<li>Prototype Design - Figma | Prototype Editing</li>
+	<li>Video Editing - Adobe Premiere | Track</li>
 </ul>
+
+<br/>
+
+##### 📊 GitHub Statistics (Expand to Observe)
+
+<details> 
+  <summary><b>💻 GitHub Activity Statistics</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vinh Tran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vinhtranak02092k&show_icons=true&count_private=true&theme=react" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pctrung&show_icons=true&locale=en&layout=compact&theme=react" alt="vinhtranak02092k" height="192px"/>
+  <br/>
+  </p>
+</details>
