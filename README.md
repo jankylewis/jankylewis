@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-    <style>
-      .img-container {
-        text-align: center;
-      }
-    </style>
-<img class= "center" src= "https://media0.giphy.com/media/26hiu39XQHEjPKofu/giphy.gif?cid=ecf05e47yk9q9zhvh1b0wak56am5391ayoyrb39mpdrrw3ns&rid=giphy.gif&ct=s" width= "100">
+
+<p align="center"><img class= "center" src= "https://media0.giphy.com/media/26hiu39XQHEjPKofu/giphy.gif?cid=ecf05e47yk9q9zhvh1b0wak56am5391ayoyrb39mpdrrw3ns&rid=giphy.gif&ct=s" width= "100"></p>
 
 <h1 align="center">Hello galaxy! I am Tran Quang Vinh<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
