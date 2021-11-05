@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 	  
 ## ⚡ Competence
 <ul>
-	<li>Robot Framework | Selenium</li>
-	<li>Java | Selenium</li>
-	<li>UI Design - Adobe Photoshop | Photo Editing</li>
-	<li>Prototype Design - Figma | Prototype Editing</li>
-	<li>Video Editing - Adobe Premiere | Track</li>
+	<li>Robot Framework |\ Selenium</li>
+	<li>Java |\ Selenium</li>
+	<li>UI Design - Adobe Photoshop |/ Photo Editing</li>
+	<li>Prototype Design - Figma |/ Prototype Editing</li>
+	<li>Video Editing - Adobe Premiere Pro |/ Track</li>
 </ul>
 
 <br/>
