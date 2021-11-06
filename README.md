@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 <ul>
 	<li>Robot Framework ⥬ Selenium </li>
 	<li>Java ⥬ Selenium </li>
-	<li>Photos Editing ⥬ Adobe Photoshop </li>
+	<li>Photos Editing ⥬ Adobe Photoshop/Adobe Illustrator </li>
 	<li>Prototypes Design ⥬ Figma/Adobe XD/Axure RP </li>
 	<li>Videos/Tracks Editing ⥬ Adobe Premiere Pro </li>
-	<li>Mindmap Generating ⥬ MindManager </li>
+	<li>Mindmaps Generating ⥬ MindManager </li>
 	<li> ⥬ Others </li>
 </ul>
 
