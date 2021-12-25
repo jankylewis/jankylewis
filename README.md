@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 ## ⚡ Competence
 <ul>
 	<li>Robot Framework ⥬ Selenium </li>
-	<li>Java ⥬ Selenium </li>
-	<li>Photos Editing ⥬ Adobe Photoshop/Adobe Illustrator </li>
+	<li>Java/C# ⥬ Selenium </li>
+	<li>Javascript ⥬ Cypress </li>
+	<li>Photos Editing ⥬ Adobe Photoshop/Adobe Illustrator/Adobe InDesign </li>
 	<li>Prototypes Design ⥬ Figma/Adobe XD/Axure RP </li>
 	<li>Videos/Tracks Editing ⥬ Adobe Premiere Pro </li>
 	<li>Mindmaps Generating ⥬ MindManager </li>
