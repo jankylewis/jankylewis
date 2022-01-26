@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 	<li>Robot Framework ⥬ Selenium </li>
 	<li>Java/C# ⥬ Selenium </li>
 	<li>JavaScript ⥬ Cypress </li>
+	<li>Java/Groovy ⥬ Katalon Studio </li>
 	<li>Photos Editing ⥬ Adobe Photoshop/Adobe Illustrator/Adobe InDesign </li>
 	<li>Prototypes Design ⥬ Figma/Adobe XD/Axure RP </li>
 	<li>Videos/Tracks Editing ⥬ Adobe Premiere Pro </li>
