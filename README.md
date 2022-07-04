@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 	<li>Java/ C# ⥬ Selenium </li>
 	<li>JavaScript ⥬ Cypress </li>
 	<li>Java/ Groovy ⥬ Katalon Studio </li>
-	<li>Photos Editing ⥬ Adobe Photoshop/Adobe Illustrator/Adobe InDesign </li>
-	<li>Prototypes Design ⥬ Figma/Adobe XD/Axure RP </li>
+	<li>Photos Editing ⥬ Adobe Photoshop/ Adobe Illustrator/ Adobe InDesign </li>
+	<li>Prototypes Design ⥬ Figma/ Adobe XD/ Axure RP </li>
 	<li>Videos/ Tracks Editing ⥬ Adobe Premiere Pro </li>
 	<li>Mindmaps Generating ⥬ MindManager </li>
+	<li>Manual Enforcements (Web, Mobile) ⥬ API, Database Migration, Penetration, Security, Functional, Intergration, Compability, ... </li>
 	<li> ⥬ Others </li>
 </ul>
 
