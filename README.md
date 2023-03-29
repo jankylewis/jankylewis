@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 	  
 ## ⚡ Competence
 <ul>
-	<li>Robot Framework ⥬ Selenium </li>
 	<li>Automation Frameworks: Selenium, Playwright </li>
 	<li>Automation Wrappers: Katalon, Cypress, Robot Framework </li>
 	<li>Programming Languages: Java (70%), Groovy(70%), Python (30%), C# (30%) </li>
