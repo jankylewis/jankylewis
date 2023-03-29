@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <ul>
 	<li>Automation Frameworks: Selenium, Playwright </li>
 	<li>Automation Wrappers: Katalon, Cypress, Robot Framework </li>
-	<li>Programming Languages: Java (70%), Groovy(70%), Python (30%), C# (30%) </li>
+	<li>Programming Languages: Java, Groovy, Python, C#, JavaScript </li>
 	<li>Manual Testing Tools: API, Database, Penetration, Security, Functional (⥬ both manual test and automated scripts) </li>
 </ul>
 
