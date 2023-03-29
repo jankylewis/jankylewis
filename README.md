@@ -24,15 +24,10 @@ Here are some ideas to get you started:
 ## ⚡ Competence
 <ul>
 	<li>Robot Framework ⥬ Selenium </li>
-	<li>Java/ C# ⥬ Selenium </li>
-	<li>JavaScript ⥬ Cypress </li>
-	<li>Java/ Groovy ⥬ Katalon Studio </li>
-	<li>Photos Editing ⥬ Adobe Photoshop/ Adobe Illustrator/ Adobe InDesign </li>
-	<li>Prototypes Design ⥬ Figma/ Adobe XD/ Axure RP </li>
-	<li>Videos/ Tracks Editing ⥬ Adobe Premiere Pro </li>
-	<li>Mindmaps Generating ⥬ MindManager </li>
-	<li>Manual Enforcements (Web, Mobile) ⥬ API, Database Migration, Penetration, Security, Functional, Intergration, Compability, ... </li>
-	<li> ⥬ Others </li>
+	<li>Automation Frameworks: Selenium, Playwright </li>
+	<li>Automation Wrappers: Katalon, Cypress, Robot Framework </li>
+	<li>Programming Languages: Java (70%), Groovy(70%), Python (30%), C# (30%) </li>
+	<li>Manual Testing Tools: API, Database, Penetration, Security, Functional (⥬ both manual test and automated scripts) </li>
 </ul>
 
 <br/>
