@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img class= "center" src= "https://media0.giphy.com/media/26hiu39XQHEjPKofu/giphy.gif?cid=ecf05e47yk9q9zhvh1b0wak56am5391ayoyrb39mpdrrw3ns&rid=giphy.gif&ct=s" width= "200"></p>
 
-<h1 align="center">	Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> I am Tran Quang Vinh  </h1> 
+<h1 align="center">	Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> My name is Tran Quang Vinh (Maxwell)  </h1> 
 
 <p align="">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Automation+Test+Engineer+in+Perseverance&center=true&width=1200&height=50"></a></p>
