@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 	<li>Automation Frameworks: Selenium, Playwright </li>
 	<li>Automation Wrappers: Katalon, Cypress, Robot Framework </li>
 	<li>Programming Languages: Java, Groovy, Python, C#, JavaScript </li>
-	<li>Manual Testing Tools: API, Database, Penetration, Security, Functional (⥬ both manual test and automated scripts) </li>
+	<li>Types of Manual Testing: API, Database, Penetration, Security, Functional (⥬ both manual test and automated scripts) </li>
+	<li>Manual Testing Tools: Postman, Sheets, NVDA, Microsoft SQL Server, Terminal </li>
 </ul>
 
 <br/>
