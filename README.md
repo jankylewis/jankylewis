@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## 📊 GitHub Statistics (Expand To Observe More Meticulously)
+## 📊 GitHub Statistics (expand to observe)
 
 <details> 
   <summary><b>GitHub Activity Statistics 💻</b></summary>
@@ -51,13 +51,13 @@ Here are some ideas to get you started:
   </p>
 </details>
 
-<details>
+<!-- <details>
   <summary><b>Recent GitHub Contribution 👷‍♂️</b></summary>
   <br/>
    <a href="https://github.com/vinhtranak02092k"><img alt="Vinh Tran's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vinhtranak02092k&custom_title=Vinh%20Tran's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-</details>
+</details> -->
 
 <br/>
 
