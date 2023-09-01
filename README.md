@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <summary><b>GitHub Activity Statistics 💻</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vinh Tran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vinhtranak02092k&show_icons=true&count_private=true&theme=react" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vinh Tran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jankylewis&show_icons=true&count_private=true&theme=react" height="192px"/></a>
 <br/>
 <br>
   &nbsp;
@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 ## 💥 Feel Free To Reach Me At
 <p align="center">
 	<a href="mailto:tranvinhit02092k@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/mail.png"/></a>
-	<a href="https://github.com/vinhtranak02092k" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/vinhtranBbx" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin-circled.png"/></a>
+	<a href="https://github.com/jankylewis" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/jankylewis" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin-circled.png"/></a>
 	<a href="https://www.facebook.com/vinhtranBbx" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/facebook-circled.png"/></a>
 	<a href="https://www.instagram.com/vinhtraafn_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 </p>
