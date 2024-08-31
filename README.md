@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 	<li>Automation Frameworks: Selenium, Playwright</li>
 	<li>Automation Wrappers: Katalon, Cypress, Robot Framework</li>
 	<li>Programming/ Scripting Languages: C#, Java, TypeScript, Groovy, JavaScript, Python</li>
-	<li>Types of Automation Testing: functional, API, database, penetration/ security, performance</li>
+	<li>Types of Automation Testing: Functional, API, Database, Penetration/ Security, Performance</li>	
 </ul>
 
 <br/>
